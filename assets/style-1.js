@@ -13,7 +13,7 @@ const highlightcolor = "#eee";
 
 // Body properties
 const bodyfontweight = 300;
-const bodyfontsize = "12pt";
+const bodyfontsize = "15pt";
 const backgroundcolor = "#383838";
 
 // Link properties
@@ -25,7 +25,7 @@ const adecoration = "none";
 
 // Menu properties
 const menucolor = accentcolor;
-const menufontsize = "15pt";
+const menufontsize = "18pt";
 const menudecoration = "none";
 // const menuhover = accentcolor;
 // const menuhoverduration = "0.3s";
@@ -33,10 +33,10 @@ const menudecoration = "none";
 
 // Header properties
 const headercolor = accentcolor;
-const headerfontsize = "18pt";
+const headerfontsize = "21pt";
 const headerdecoration = "none";
 const namecolor = accentcolor;
-const namefontsize = "23pt";
+const namefontsize = "26pt";
 
 
 // Publication properties
